@@ -1,0 +1,3 @@
+C:\Users\can\source\repos\ReactApp3\reactapp3.client\obj\Debug\reactapp3.client.esproj.CoreCompileInputs.cache
+C:\Users\can\Desktop\ReactApp3\reactapp3.client\obj\Debug\reactapp3.client.esproj.CoreCompileInputs.cache
+C:\Users\can\Desktop\ö\ReactApp3\reactapp3.client\obj\Debug\reactapp3.client.esproj.CoreCompileInputs.cache

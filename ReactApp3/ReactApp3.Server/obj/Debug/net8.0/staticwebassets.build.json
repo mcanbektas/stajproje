@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "eOnrpAMnAuL8s+yGGHsyXe3TKQse7oI9wZmLxGSCiUk=",
+  "Source": "ReactApp3.Server",
+  "BasePath": "_content/ReactApp3.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\can\\Desktop\\ö\\ReactApp3\\reactapp3.client\\reactapp3.client.esproj",
+      "Version": 2,
+      "Source": "reactapp3.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,651 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC47725-0B25-45AF-B46D-BC121DA6E4F7}|reactapp3.client\\reactapp3.client.esproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.client\\src\\weatherforecast.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8CC47725-0B25-45AF-B46D-BC121DA6E4F7}|reactapp3.client\\reactapp3.client.esproj|solutionrelative:reactapp3.client\\src\\weatherforecast.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|solutionrelative:reactapp3.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.server\\dto\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|solutionrelative:reactapp3.server\\dto\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC47725-0B25-45AF-B46D-BC121DA6E4F7}|reactapp3.client\\reactapp3.client.esproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.client\\src\\user.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8CC47725-0B25-45AF-B46D-BC121DA6E4F7}|reactapp3.client\\reactapp3.client.esproj|solutionrelative:reactapp3.client\\src\\user.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC47725-0B25-45AF-B46D-BC121DA6E4F7}|reactapp3.client\\reactapp3.client.esproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.client\\src\\namecastpost.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8CC47725-0B25-45AF-B46D-BC121DA6E4F7}|reactapp3.client\\reactapp3.client.esproj|solutionrelative:reactapp3.client\\src\\namecastpost.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC47725-0B25-45AF-B46D-BC121DA6E4F7}|reactapp3.client\\reactapp3.client.esproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.client\\src\\namecast.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8CC47725-0B25-45AF-B46D-BC121DA6E4F7}|reactapp3.client\\reactapp3.client.esproj|solutionrelative:reactapp3.client\\src\\namecast.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC47725-0B25-45AF-B46D-BC121DA6E4F7}|reactapp3.client\\reactapp3.client.esproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.client\\src\\card.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8CC47725-0B25-45AF-B46D-BC121DA6E4F7}|reactapp3.client\\reactapp3.client.esproj|solutionrelative:reactapp3.client\\src\\card.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC47725-0B25-45AF-B46D-BC121DA6E4F7}|reactapp3.client\\reactapp3.client.esproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8CC47725-0B25-45AF-B46D-BC121DA6E4F7}|reactapp3.client\\reactapp3.client.esproj|solutionrelative:reactapp3.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F1476-3EFB-44F3-9FA4-E92908EDDDC3}|EntityModels\\EntityModels.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\entitymodels\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F1476-3EFB-44F3-9FA4-E92908EDDDC3}|EntityModels\\EntityModels.csproj|solutionrelative:entitymodels\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F1476-3EFB-44F3-9FA4-E92908EDDDC3}|EntityModels\\EntityModels.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\entitymodels\\usercardrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F1476-3EFB-44F3-9FA4-E92908EDDDC3}|EntityModels\\EntityModels.csproj|solutionrelative:entitymodels\\usercardrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F1476-3EFB-44F3-9FA4-E92908EDDDC3}|EntityModels\\EntityModels.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\entitymodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F1476-3EFB-44F3-9FA4-E92908EDDDC3}|EntityModels\\EntityModels.csproj|solutionrelative:entitymodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F1476-3EFB-44F3-9FA4-E92908EDDDC3}|EntityModels\\EntityModels.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\entitymodels\\iuseridentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F1476-3EFB-44F3-9FA4-E92908EDDDC3}|EntityModels\\EntityModels.csproj|solutionrelative:entitymodels\\iuseridentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F1476-3EFB-44F3-9FA4-E92908EDDDC3}|EntityModels\\EntityModels.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\entitymodels\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F1476-3EFB-44F3-9FA4-E92908EDDDC3}|EntityModels\\EntityModels.csproj|solutionrelative:entitymodels\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7F1476-3EFB-44F3-9FA4-E92908EDDDC3}|EntityModels\\EntityModels.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\entitymodels\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7F1476-3EFB-44F3-9FA4-E92908EDDDC3}|EntityModels\\EntityModels.csproj|solutionrelative:entitymodels\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE0BFB-5EF8-40A6-98F4-3375302124E5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\businesslayer\\usercardrelationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE0BFB-5EF8-40A6-98F4-3375302124E5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\usercardrelationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE0BFB-5EF8-40A6-98F4-3375302124E5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\businesslayer\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE0BFB-5EF8-40A6-98F4-3375302124E5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE0BFB-5EF8-40A6-98F4-3375302124E5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\businesslayer\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE0BFB-5EF8-40A6-98F4-3375302124E5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DE0BFB-5EF8-40A6-98F4-3375302124E5}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\businesslayer\\iusercardrelationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93DE0BFB-5EF8-40A6-98F4-3375302124E5}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\iusercardrelationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.server\\controllers\\namecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|solutionrelative:reactapp3.server\\controllers\\namecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.server\\dto\\namecastpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|solutionrelative:reactapp3.server\\dto\\namecastpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.server\\dto\\namecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|solutionrelative:reactapp3.server\\dto\\namecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC47725-0B25-45AF-B46D-BC121DA6E4F7}|reactapp3.client\\reactapp3.client.esproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8CC47725-0B25-45AF-B46D-BC121DA6E4F7}|reactapp3.client\\reactapp3.client.esproj|solutionrelative:reactapp3.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC47725-0B25-45AF-B46D-BC121DA6E4F7}|reactapp3.client\\reactapp3.client.esproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8CC47725-0B25-45AF-B46D-BC121DA6E4F7}|reactapp3.client\\reactapp3.client.esproj|solutionrelative:reactapp3.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.server\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|solutionrelative:reactapp3.server\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FD65C5-F18C-40FD-9A01-7E6DCE7626B4}|Repository\\Repository.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FD65C5-F18C-40FD-9A01-7E6DCE7626B4}|Repository\\Repository.csproj|solutionrelative:repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FD65C5-F18C-40FD-9A01-7E6DCE7626B4}|Repository\\Repository.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FD65C5-F18C-40FD-9A01-7E6DCE7626B4}|Repository\\Repository.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FD65C5-F18C-40FD-9A01-7E6DCE7626B4}|Repository\\Repository.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FD65C5-F18C-40FD-9A01-7E6DCE7626B4}|Repository\\Repository.csproj|solutionrelative:repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FD65C5-F18C-40FD-9A01-7E6DCE7626B4}|Repository\\Repository.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\repository\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FD65C5-F18C-40FD-9A01-7E6DCE7626B4}|Repository\\Repository.csproj|solutionrelative:repository\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FD65C5-F18C-40FD-9A01-7E6DCE7626B4}|Repository\\Repository.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FD65C5-F18C-40FD-9A01-7E6DCE7626B4}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|solutionrelative:reactapp3.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.server\\dto\\userwithcardsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|solutionrelative:reactapp3.server\\dto\\userwithcardsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.server\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|solutionrelative:reactapp3.server\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.server\\dto\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|solutionrelative:reactapp3.server\\dto\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.server\\dto\\usercardrelationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|solutionrelative:reactapp3.server\\dto\\usercardrelationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|c:\\users\\can\\desktop\\\u00F6\\reactapp3\\reactapp3.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF18056D-2292-44DB-98A7-51E0CE141466}|ReactApp3.Server\\ReactApp3.Server.csproj|solutionrelative:reactapp3.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/myDataBase/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/myDataBase/True/SqlTable/dbo.UserCardRelations.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/myDataBase/True/SqlTable/dbo.Cards.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Dto\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ReactApp3.Server\\Dto\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Dto\\WeatherForecast.cs",
+              "RelativeToolTip": "ReactApp3.Server\\Dto\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:32:51.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "weatherforecast.jsx",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\reactapp3.client\\src\\weatherforecast.jsx",
+              "RelativeDocumentMoniker": "reactapp3.client\\src\\weatherforecast.jsx",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\reactapp3.client\\src\\weatherforecast.jsx",
+              "RelativeToolTip": "reactapp3.client\\src\\weatherforecast.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-24T20:32:48.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserIDEntity.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\EntityModels\\IUserIDEntity.cs",
+              "RelativeDocumentMoniker": "EntityModels\\IUserIDEntity.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\EntityModels\\IUserIDEntity.cs",
+              "RelativeToolTip": "EntityModels\\IUserIDEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:18:56.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\EntityModels\\User.cs",
+              "RelativeDocumentMoniker": "EntityModels\\User.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\EntityModels\\User.cs",
+              "RelativeToolTip": "EntityModels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:19:02.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserCardRelation.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\EntityModels\\UserCardRelation.cs",
+              "RelativeDocumentMoniker": "EntityModels\\UserCardRelation.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\EntityModels\\UserCardRelation.cs",
+              "RelativeToolTip": "EntityModels\\UserCardRelation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:19:19.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\EntityModels\\Card.cs",
+              "RelativeDocumentMoniker": "EntityModels\\Card.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\EntityModels\\Card.cs",
+              "RelativeToolTip": "EntityModels\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:18:45.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\reactapp3.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "reactapp3.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\reactapp3.client\\src\\App.jsx",
+              "RelativeToolTip": "reactapp3.client\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-23T11:23:00.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "card.jsx",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\reactapp3.client\\src\\card.jsx",
+              "RelativeDocumentMoniker": "reactapp3.client\\src\\card.jsx",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\reactapp3.client\\src\\card.jsx",
+              "RelativeToolTip": "reactapp3.client\\src\\card.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-23T11:22:03.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ReactApp3.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ReactApp3.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:41:56.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\EntityModels\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "EntityModels\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\EntityModels\\BaseEntity.cs",
+              "RelativeToolTip": "EntityModels\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:18:37.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "namecast.jsx",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\reactapp3.client\\src\\namecast.jsx",
+              "RelativeDocumentMoniker": "reactapp3.client\\src\\namecast.jsx",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\reactapp3.client\\src\\namecast.jsx",
+              "RelativeToolTip": "reactapp3.client\\src\\namecast.jsx",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-24T20:28:10.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "namecastpost.jsx",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\reactapp3.client\\src\\namecastpost.jsx",
+              "RelativeDocumentMoniker": "reactapp3.client\\src\\namecastpost.jsx",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\reactapp3.client\\src\\namecastpost.jsx",
+              "RelativeToolTip": "reactapp3.client\\src\\namecastpost.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-24T20:28:15.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "user.jsx",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\reactapp3.client\\src\\user.jsx",
+              "RelativeDocumentMoniker": "reactapp3.client\\src\\user.jsx",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\reactapp3.client\\src\\user.jsx",
+              "RelativeToolTip": "reactapp3.client\\src\\user.jsx",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAkwFIBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-23T11:22:25.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\EntityModels\\Enums\\Enums.cs",
+              "RelativeDocumentMoniker": "EntityModels\\Enums\\Enums.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\EntityModels\\Enums\\Enums.cs",
+              "RelativeToolTip": "EntityModels\\Enums\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:18:17.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserCardRelationService.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\BusinessLayer\\UserCardRelationService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\UserCardRelationService.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\BusinessLayer\\UserCardRelationService.cs",
+              "RelativeToolTip": "BusinessLayer\\UserCardRelationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:17:45.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\BusinessLayer\\UserService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\UserService.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\BusinessLayer\\UserService.cs",
+              "RelativeToolTip": "BusinessLayer\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:17:58.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\BusinessLayer\\IUserService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\IUserService.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\BusinessLayer\\IUserService.cs",
+              "RelativeToolTip": "BusinessLayer\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:17:38.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserCardRelationService.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\BusinessLayer\\IUserCardRelationService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\IUserCardRelationService.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\BusinessLayer\\IUserCardRelationService.cs",
+              "RelativeToolTip": "BusinessLayer\\IUserCardRelationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:17:29.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NameCastController.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Controllers\\NameCastController.cs",
+              "RelativeDocumentMoniker": "ReactApp3.Server\\Controllers\\NameCastController.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Controllers\\NameCastController.cs",
+              "RelativeToolTip": "ReactApp3.Server\\Controllers\\NameCastController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:16:14.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NameCastPost.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Dto\\NameCastPost.cs",
+              "RelativeDocumentMoniker": "ReactApp3.Server\\Dto\\NameCastPost.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Dto\\NameCastPost.cs",
+              "RelativeToolTip": "ReactApp3.Server\\Dto\\NameCastPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:16:04.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NameCast.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Dto\\NameCast.cs",
+              "RelativeDocumentMoniker": "ReactApp3.Server\\Dto\\NameCast.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Dto\\NameCast.cs",
+              "RelativeToolTip": "ReactApp3.Server\\Dto\\NameCast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:15:40.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\reactapp3.client\\src\\index.css",
+              "RelativeDocumentMoniker": "reactapp3.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\reactapp3.client\\src\\index.css",
+              "RelativeToolTip": "reactapp3.client\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-24T20:24:21.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\reactapp3.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "reactapp3.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\reactapp3.client\\src\\main.jsx",
+              "RelativeToolTip": "reactapp3.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-24T18:30:52.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "ReactApp3.Server\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Controllers\\CardController.cs",
+              "RelativeToolTip": "ReactApp3.Server\\Controllers\\CardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:21:06.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\Repository\\Repository.cs",
+              "RelativeToolTip": "Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:20:03.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:19:57.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\Repository\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\Repository\\AppDbContext.cs",
+              "RelativeToolTip": "Repository\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:19:48.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\Repository\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\Repository\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:19:38.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\Repository\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\Repository\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:19:30.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ReactApp3.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Program.cs",
+              "RelativeToolTip": "ReactApp3.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:26:22.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserWithCardsDto.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Dto\\UserWithCardsDto.cs",
+              "RelativeDocumentMoniker": "ReactApp3.Server\\Dto\\UserWithCardsDto.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Dto\\UserWithCardsDto.cs",
+              "RelativeToolTip": "ReactApp3.Server\\Dto\\UserWithCardsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:20:15.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "ReactApp3.Server\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Dto\\UserDto.cs",
+              "RelativeToolTip": "ReactApp3.Server\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:20:21.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CardDto.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Dto\\CardDto.cs",
+              "RelativeDocumentMoniker": "ReactApp3.Server\\Dto\\CardDto.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Dto\\CardDto.cs",
+              "RelativeToolTip": "ReactApp3.Server\\Dto\\CardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T18:05:42.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserCardRelationDto.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Dto\\UserCardRelationDto.cs",
+              "RelativeDocumentMoniker": "ReactApp3.Server\\Dto\\UserCardRelationDto.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Dto\\UserCardRelationDto.cs",
+              "RelativeToolTip": "ReactApp3.Server\\Dto\\UserCardRelationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:20:11.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ReactApp3.Server\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\\u00F6\\ReactApp3\\ReactApp3.Server\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ReactApp3.Server\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:20:28.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/myDataBase/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/myDataBase/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-23T11:24:45.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "dbo.UserCardRelations.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/myDataBase/True/SqlTable/dbo.UserCardRelations.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/myDataBase/True/SqlTable/dbo.UserCardRelations.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-23T11:24:30.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "dbo.Cards.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/myDataBase/True/SqlTable/dbo.Cards.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/myDataBase/True/SqlTable/dbo.Cards.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-23T11:24:22.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
